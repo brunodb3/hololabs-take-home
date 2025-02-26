@@ -36,6 +36,6 @@ Start time: 09:10AM
 - added a reset camera button
 - updated README and cleaned up some files, adding some useful #region comments
 
-There is a reported error with "CPU", I couldn't figure out what's causing it. It could be an issue with Firefox or something else. Either way, the functionality still works
+There is a reported error with "CPU", I couldn't figure out what's causing it. It could be an issue with Firefox or something else. Doesn't seem to happen on a HTTPS site (deployed on Vercel).
 
 End time: 02:00PM
